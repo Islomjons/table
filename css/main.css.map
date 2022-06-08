@@ -1,0 +1,17 @@
+{
+    "version": 3,
+    "mappings": "AIAA,AAAA,gBAAgB,CAAC;EACb,QAAQ,EAAE,QAAQ;EAClB,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,GAAG;EACX,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,CAAC;EACV,QAAQ,EAAE,MAAM;EAChB,MAAM,EAAE,CAAC;EACT,IAAI,EAAE,aAAa;CACtB;;ACTD,AAAA,UAAU,CAAC;EACP,SAAS,EAAE,MAAM;EACjB,WAAW,EAAE,IAAI;EACjB,YAAY,EAAE,IAAI;EAClB,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,IAAI;CACtB;;AEND,AAAA,KAAK,EAAE,EAAE,EAAE,EAAE,CAAC;EACV,MAAM,EAAE,eAAe;EACvB,eAAe,EAAE,QAAQ;CAC5B;;AAED,AAAA,EAAE,EAAE,EAAE,CAAC;EACH,KAAK,EAAE,KAAK;EACZ,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/_fonts.scss",
+        "../scss/_normalize.scss",
+        "../scss/blocks/_block.scss",
+        "../scss/blocks/_visually-hidden.scss",
+        "../scss/blocks/_container.scss",
+        "../scss/blocks/_header.scss",
+        "../scss/blocks/_hero.scss",
+        "../scss/blocks/_footer.scss"
+    ],
+    "names": [],
+    "file": "main.css"
+}
